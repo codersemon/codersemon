@@ -115,8 +115,8 @@ I'm a **self-taught JavaScript Developer** with a strong focus on **frontend dev
   </div>
 </details>
 
---- 
-## 🤝 **Connect With Me**
+## 🤝 **Let’s Build Something Amazing!**  
+I’m open to **collaborations, freelance projects, and exciting opportunities** in web development. Let’s connect and bring ideas to life! 🚀 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/codersemon/" target="blank">
@@ -166,7 +166,3 @@ I'm a **self-taught JavaScript Developer** with a strong focus on **frontend dev
   </a>
 </p>
 
---- 
-
-## 🤝 **Let’s Build Something Amazing!**  
-I’m open to **collaborations, freelance projects, and exciting opportunities** in web development. Let’s connect and bring ideas to life! 🚀 
