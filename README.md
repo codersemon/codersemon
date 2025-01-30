@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Emon Khan – JavaScript Developer & WordPress Expert  
+**👋 Hey, I'm Emon Khan – JavaScript Developer & WordPress Expert**  
 
 As a **JavaScript Developer & WordPress Expert** since **2020**, my passion lies in building **high-performance web applications** and **custom WordPress solutions** that drive business growth. With a focus on **frontend excellence**, I specialize in creating **seamless, interactive, and user-centric experiences** that leave a lasting impact.
 
