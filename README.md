@@ -17,7 +17,7 @@
   <br />
   <td>
     <img
-      src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma"
+      src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,wordpress"
       height="40"
     />
   </td>
@@ -59,7 +59,7 @@
 <hr />
 
 <details>
-  <summary><strong>📊 GitHub Stats (Click to expand)</strong></summary>
+  <summary><strong>📊 Github Stats (Click to expand)</strong></summary>
   <br />
   <div align="center">
     <a href="https://github.com/codersemon">
@@ -76,3 +76,21 @@
     </a>
   </div>
 </details>
+
+
+
+---
+
+## 🌐 **Connect With Me**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/codersemon/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" height="40" width="40" /></a>
+  <a href="mailto:contact@emokhan.me" target="blank"><img align="center" src="https://img.icons8.com/color/48/apple-mail.png" alt="email" height="40" width="40" /></a>
+  <a href="https://www.facebook.com/codersemon/" target="blank"><img align="center" src="https://img.icons8.com/?size=40&id=118497&format=png" alt="email" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/codersemon/" target="blank"><img align="center" src="https://img.icons8.com/?size=40&id=32323&format=png" alt="email" height="40" width="40" /></a>
+    <a href="https://x.com/coders_emon" target="blank"><img align="center" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter" height="40" width="40" /></a>
+</p>
+
+---
+
+**Let’s create something extraordinary together! 🌟✨**
