@@ -9,7 +9,7 @@
     <tr>
       <td>
         <img
-          src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,js,ts,figma"
+          src="https://skillicons.dev/icons?i=react,nextjs, redux, tailwind,bootstrap,js,ts,figma"
           height="40"
         />
       </td>
