@@ -166,5 +166,6 @@ I’m open to **collaborations, freelance projects, and exciting opportunities**
     />
   </a>
 </p>
+
 ---
 
