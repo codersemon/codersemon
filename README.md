@@ -6,7 +6,7 @@ As a **freelancer on Upwork & Fiverr**, I specialize in building and optimizing 
 
 ## 🚀 What I Bring to the Table
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width="25" /> **Languages and Tools**
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width="25" /> **Languages and Tools**
 
 
   <table>
