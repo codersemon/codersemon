@@ -59,7 +59,7 @@
     <tr>
       <td colspan="2">
         <img
-          src="https://skillicons.dev/icons?i=figma"
+          src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,discord,vite"
           height="40"
         />
       </td>
