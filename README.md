@@ -1,3 +1,27 @@
+# 👋 Hey, I'm Emon Khan – JavaScript Developer & WordPress Expert  
+
+I'm a **self-taught JavaScript Developer** with a strong focus on **frontend development**, passionate about crafting seamless, interactive, and high-performing web applications. Since **2020**, I’ve been delivering top-tier solutions across **Upwork, Fiverr, and other marketplaces**, collaborating with clients worldwide.  
+
+## 🚀 What I Bring to the Table
+
+### 💻 **Frontend Development**  
+- ⚡ **React & Next.js** – High-performance web apps  
+- 🎨 **Tailwind CSS & Styled Components** – Modern, responsive UI  
+- 🚀 **JavaScript & TypeScript** – Clean & scalable code  
+
+### 🌍 **Full-Stack & WordPress**  
+- 🔗 **Node.js, Express & MySQL** – REST APIs & backend solutions  
+- 🛒 **WooCommerce & WordPress** – Custom themes, plugins & optimization  
+- 📝 **Gravity Forms, JetEngine & WCFM** – Advanced form handling  
+
+## 🏆 **Why Work With Me?**  
+✔ **5+ Years of Experience** – Proven track record in freelancing & development  
+✔ **Problem-Solver** – Debugging, optimizing & refining applications  
+✔ **Marketplace Success** – Trusted by clients on **Upwork & Fiverr**  
+✔ **Passionate Learner** – Always exploring new technologies   
+
+
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width="25" /> **Languages and Tools**
 
 <div style="width: 100%">
@@ -143,4 +167,6 @@
 </p>
 
 --- 
-**Let’s create something extraordinary together! 🌟✨**
+
+## 🤝 **Let’s Build Something Amazing!**  
+I’m open to **collaborations, freelance projects, and exciting opportunities** in web development. Let’s connect and bring ideas to life! 🚀 
