@@ -97,7 +97,8 @@
   </div>
 </details>
 
---- ## 🤝 **Connect With Me**
+--- 
+## 🤝 **Connect With Me**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/codersemon/" target="blank">
@@ -147,4 +148,5 @@
   </a>
 </p>
 
---- **Let’s create something extraordinary together! 🌟✨**
+--- 
+**Let’s create something extraordinary together! 🌟✨**
