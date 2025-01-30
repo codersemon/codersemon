@@ -115,6 +115,7 @@ I'm a **self-taught JavaScript Developer** with a strong focus on **frontend dev
   </div>
 </details>
 
+---
 ## 🤝 **Let’s Build Something Amazing!**  
 I’m open to **collaborations, freelance projects, and exciting opportunities** in web development. Let’s connect and bring ideas to life! 🚀 
 
@@ -165,4 +166,5 @@ I’m open to **collaborations, freelance projects, and exciting opportunities**
     />
   </a>
 </p>
+---
 
